@@ -71,3 +71,7 @@ h2 {
   background: black;
   border-radius: 100% / 120% 120% 75% 75%;
 }
+
+.portrait-container {
+	padding-right: 10px;
+}
