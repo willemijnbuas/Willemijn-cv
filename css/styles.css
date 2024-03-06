@@ -54,17 +54,16 @@ body {
 /*my own classes!*/
 
 .name {
-	font-family: 'Comic Neue Regular';
-	color: #711414;
-	font-weight: 600;
-	
+  font-family: "Comic Neue", cursive;
+  font-style: normal;
 }
+	
 
 h2 {
-	font-family:'Comic Neue Regular';
-	color: #202030;
-	
+  font-family: "Comic Neue", cursive;
+  font-style: normal;
 }
+	
 
 .oval {
   width: 230px;
